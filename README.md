@@ -1,4 +1,4 @@
-# famicoun
+# FamiCoun
 Here is my design of an expansion to connect NES and SNES controller to the front port of a Nintendo Famicom.
 
 It makes the Famicom look like a Countach in the front. Hence the name of this project.
