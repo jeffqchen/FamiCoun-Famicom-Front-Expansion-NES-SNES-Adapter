@@ -8,6 +8,7 @@ The player 2 NES port supports the Zapper, as shown on the shell.
 When you use a SNES controler, Y is B and B is A.
 
 ===Prints===
+
 You need to print the front jacket, the plugs and the back. The orientation should be pretty self-explanatory when you put them into the slicer.
 
 Support is required for the front jacket.
@@ -15,12 +16,14 @@ Support is required for the front jacket.
 A different version of the front jacket is provided with a holder design for the cover you take off from the Famicom, so you don't end up losing the original cover easily (however if you already lost yours, you can print a new one. I uploaded a design a while back.)
 
 ===PCB===
+
 This design requires a PCB to be ordered:
 https://oshpark.com/shared_projects/o9447wjx
 
 You can also download the gerber file and take it to any provider you like and get it made.
 
 ===PARTS===
+
 The pins used in the project can be purchased from Digikey.
 
 Pins on the front:
@@ -40,8 +43,10 @@ Note you don't have to populate all the pins, but it makes it look better.
 Screw and nut used is Hex M2 16mm (full length 17.8mm). This can be purchased from Amazon as a kit.
 
 ===Misc===
+
 Full project file can be found on GitHub:
 https://github.com/jeffqchen/famicoun
+
 
 ===Special Thanks===
 
