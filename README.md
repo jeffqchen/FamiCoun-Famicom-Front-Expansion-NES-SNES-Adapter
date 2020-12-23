@@ -46,7 +46,7 @@ Screw and nut used is **Hex M2 16mm** (full length 17.8mm). This can be purchase
 **=== Misc ===**
 
 Full project file can be found on GitHub:  [https://github.com/jeffqchen/famicoun](https://github.com/jeffqchen/famicoun)
-
+Thingiverse Design：[https://www.thingiverse.com/thing:4671897](https://www.thingiverse.com/thing:4671897)
 **=== Special Thanks ===**
 
 * Chris Kempson
