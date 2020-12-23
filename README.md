@@ -19,7 +19,7 @@ A different version of the front jacket is provided with a holder design for the
 
 **===PCB===**
 
-This design requires a PCB to be ordered:  [https://oshpark.com/shared_projects/o9447wjx](https://oshpark.com/shared_projects/o9447wjx)
+This design requires a PCB to be ordered:  [https://oshpark.com/shared_projects/L9FUXWiv](OSHPark)
 
 You can also download the gerber file and take it to any provider you like and get it made.
 
