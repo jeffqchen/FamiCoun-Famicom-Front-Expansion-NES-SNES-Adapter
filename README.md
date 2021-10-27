@@ -26,7 +26,7 @@ Pins on the front
 
 Pins on the back:
 - Quantity: 9 or 15
-- Part No.: 88SE-ND
+- Part No.: 89SE-ND
 - Name:CONN D-SUB SOCKET 20-26AWG CRIMP
 
 PCB
@@ -44,6 +44,8 @@ PCB
 Print the front jacket, the plugs and the back. The orientation should be pretty self-explanatory when you put them into the slicer.
 
 Support is required for the front jacket.
+
+After the print is done, make sure you enlarge the holes for the NES plugs with a 9/64 drill bit, so plugs can go in properly. I suggest doing it manually since it's easy to overshoot and destroy the smaller holes at the bottom. All this is because if I made the holes any bigger, the slicers would refuse to generate a smooth wall and make the hole not round.
 
 A different version of the front jacket is provided with a holder design for the cover you take off from the Famicom, so you don't end up losing the original cover easily (however if you already lost yours, you can print a new one. I uploaded a design a while back.)
 
