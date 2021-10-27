@@ -20,7 +20,6 @@ Note when you use a SNES controler, Y is B and B is A.
 Pins
 
 ```
-
 The pins used in the project can be purchased from Digikey.
 
 Pins on the front
@@ -41,7 +40,6 @@ Female:
 9 for pin 1, 4, 5, 7, 9, 12, 13, 14, 15
 
 Note you don't have to populate all the pins, but it makes it look better.
-
 ```
 
 PCB
