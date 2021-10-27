@@ -63,13 +63,16 @@ Soldering is pretty straightforward. You can use the printed parts to help holdi
 
 Note you don't have to populate all the pins, but it makes it look better.
 
-Screw and nut used is **Hex M2 16mm** (full length 17.8mm). This can be purchased from Amazon as a kit.
+Put the plugs part over the front side through the pins, then seat the assembly into the front jacket piece.
+
+Finally, close it up with the back piece and secure with two sets of M2x16mm screws and nuts.
 
 --------
 
 ## Misc
 
-Thingiverse Design：[https://www.thingiverse.com/thing:4671897](https://www.thingiverse.com/thing:4671897)
+Thingiverse Design
+- [https://www.thingiverse.com/thing:4671897](https://www.thingiverse.com/thing:4671897)
 
 --------
 
