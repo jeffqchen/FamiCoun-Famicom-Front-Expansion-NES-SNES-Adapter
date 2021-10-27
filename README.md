@@ -17,6 +17,10 @@ Note when you use a SNES controler, Y is B and B is A.
 
 ## PARTS
 
+Pins
+
+```
+
 The pins used in the project can be purchased from Digikey.
 
 Pins on the front
@@ -28,6 +32,17 @@ Pins on the back:
 - Quantity: 9 or 15
 - Part No.: 89SE-ND
 - Name:CONN D-SUB SOCKET 20-26AWG CRIMP
+
+Required pins are:
+Male:
+5 for all the SNES ones, 5 for 1P NES, 7 for 2P NES. Detailed pinout shown in one of the photos above.
+
+Female:
+9 for pin 1, 4, 5, 7, 9, 12, 13, 14, 15
+
+Note you don't have to populate all the pins, but it makes it look better.
+
+```
 
 PCB
 - https://oshpark.com/shared_projects/L9FUXWiv
