@@ -1,5 +1,5 @@
 
-# FamiCoun
+# "FamiCoun" Famicom Front Expansion NES/SNES Controller Adapter
 
 <img src="./Pics/01.jpg" width="300px" /><img src="./Pics/02.jpg" width="300px" />
 <img src="./Pics/03.jpg" width="600px" />
