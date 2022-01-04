@@ -1,9 +1,12 @@
+<img src="./Pics/banner.png"/>
 
 # "FamiCoun" Famicom Front Expansion NES/SNES Controller Adapter
 
-<img src="./Pics/01.jpg" width="300px" /><img src="./Pics/02.jpg" width="300px" />
+<img src="./Pics/01.jpg" width="300px" /> <img src="./Pics/02.jpg" width="300px" />
+
 <img src="./Pics/03.jpg" width="600px" />
-<img src="./Pics/04.jpg" width="300px" /><img src="./Pics/05.jpg" width="300px" />
+
+<img src="./Pics/04.jpg" width="300px" /> <img src="./Pics/05.jpg" width="300px" />
 
 Here is my design of an expansion to connect NES and SNES controller to the front port of a Nintendo Famicom.
 
