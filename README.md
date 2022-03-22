@@ -21,37 +21,15 @@ Note when you use a SNES controler, Y is B and B is A.
 ## PARTS
 
 Pins
+- [PCB](https://oshpark.com/shared_projects/L9FUXWiv)
 
-```
-The pins used in the project can be purchased from Digikey.
+- [22x or 28x] Front Pins - Terminal Pins, Male, Machined - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Terminal%20Pins/Machined%20Male/info.md)
 
-Pins on the front
-- Quantity: 22 or 28
-- Part No.: ED1183-ND
-- Name: CONN PC PIN CIRC 0.040DIA GOLD by Mill-Max Manufacturing Corp.
+- [9x] Back Pins - Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Terminal%20Pins/Machined%20Female)
 
-Pins on the back:
-- Quantity: 9 or 15
-- Part No.: 89SE-ND
-- Name:CONN D-SUB SOCKET 20-26AWG CRIMP
+- [2x] M2x16mm Hex Screw & Nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-Required pins are:
-Male:
-5 for all the SNES ones, 5 for 1P NES, 7 for 2P NES. Detailed pinout shown in one of the photos above.
-
-Female:
-9 for pin 1, 4, 5, 7, 9, 12, 13, 14, 15
-
-Note you don't have to populate all the pins, but it makes it look better.
-```
-
-PCB
-- https://oshpark.com/shared_projects/L9FUXWiv
-
-[2x] M2x16mm Hex Screw & Nut
-- https://www.amazon.com/gp/product/B014OO5KQG
-
-3D Printed Shell
+- 3D Printed Shell
 
 --------
 
