@@ -66,7 +66,7 @@ Finally, close it up with the back piece and secure with two sets of M2x16mm scr
 ## Misc
 
 Thingiverse Design
-- [https://www.thingiverse.com/thing:4671897](https://www.thingiverse.com/thing:4671897)
+- [https://www.thingiverse.com/thing:4671897](https://www.thingiverse.com/thing:4633078)
 
 --------
 
